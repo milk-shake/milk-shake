@@ -1,6 +1,6 @@
 - 👋 Hi I'm milk-shake 
 - 🌱 I’m currently learning ALX software engineering 
-- 💞️ I’m looking to collaborate on UI UX designs 
+- 💞️ I’m looking to collaborate on UI UX designs,figma and web development 
 - 📫 How to reach me : joegikenye@gmail.com 
 
 <!---
