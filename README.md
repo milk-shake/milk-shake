@@ -1,5 +1,5 @@
 - 👋 Hi I'm milk-shake 
-- 🌱 I’m currently learning ALX software engineering 
+- 🌱 I’m currently learning Software Engineering at ALX Holberton Software Engineering 
 - 💞️ I’m looking to collaborate on UI UX designs,figma and web development 
 - 📫 How to reach me : joegikenye@gmail.com 
 
